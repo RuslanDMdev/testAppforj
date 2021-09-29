@@ -1,0 +1,6 @@
+framework module Pods_dzProdBirrth {
+  umbrella header "Pods-dzProdBirrth-umbrella.h"
+
+  export *
+  module * { export * }
+}
